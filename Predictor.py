@@ -1,5 +1,4 @@
 import pandas as pd
-from itertools import groupby
 from sklearn.metrics.pairwise import euclidean_distances
 from sklearn.linear_model import LinearRegression
 from sklearn import preprocessing
